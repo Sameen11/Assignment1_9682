@@ -22,7 +22,7 @@
             
                 <div class="form-group">
                     <label>Name.</label>
-                    <input type="sting" name="name" class="form-control" placeholder="enter your full name">
+                    <input type="string" name="name" class="form-control" placeholder="enter your full name">
                 </div>
                 <div class="form-group">
                     <label>Email.</label>
